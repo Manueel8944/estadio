@@ -1,0 +1,26 @@
+[
+  {
+    "idboleto": "BOLETO-0",
+    "nombre": "manuel",
+    "dni": "54229494W",
+    "asiento": "0",
+    "hora": 1742919913726,
+    "valido": false
+  },
+  {
+    "idboleto": "BOLETO-1",
+    "nombre": "xavi",
+    "dni": "23543243R",
+    "asiento": "3",
+    "hora": "No ingresado",
+    "valido": false
+  },
+  {
+    "idboleto": "BOLETO-2",
+    "nombre": "mike",
+    "dni": "76768908U",
+    "asiento": "2",
+    "hora": "No ingresado",
+    "valido": false
+  }
+]
