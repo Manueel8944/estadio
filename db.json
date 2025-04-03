@@ -11,8 +11,8 @@
     "idboleto": "BOLETO-1",
     "nombre": "xavi",
     "dni": "23543243R",
-    "asiento": "3",
-    "hora": "No ingresado",
+    "asiento": 0,
+    "hora": 1743692610560,
     "valido": false
   },
   {
@@ -21,6 +21,14 @@
     "dni": "76768908U",
     "asiento": "2",
     "hora": "No ingresado",
+    "valido": false
+  },
+  {
+    "idboleto": "BOLETO-3",
+    "nombre": "iago",
+    "dni": "54229494A",
+    "asiento": "77",
+    "hora": "3/4/2025, 17:08:39",
     "valido": false
   }
 ]
